@@ -1,0 +1,25 @@
+{
+    "name": "maratonadev-3-doe",
+    "version": "1.0.0",
+    "description": "Aplicação desenvolvida durante a MaratonaDev 3",
+    "main": "scripts.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/riquesons5/maratonadev-3-doe.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/riquesons5/maratonadev-3-doe/issues"
+    },
+    "homepage": "https://github.com/riquesons5/maratonadev-3-doe#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.4",
+        "nunjucks": "^3.2.2"
+    }
+}
